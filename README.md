@@ -1,6 +1,6 @@
 - 👋Olá, me chamo Lucas Brito;
 - 👀 Esou intessado em aprender mais sobre Flutter/Dart, CSS5,HTML e JS;
-- 🌱 Atualmente estou aprendendo mais sobre Flutter;
+- 🌱 Atualmente estou aprendendo mais sobre Flutter e Front-end;
 - 💞️ Procuro colaborar como estagiario;
 - 📫 Como me encontrar? Fácil! @olucasbritoo. "Instagram"
 
