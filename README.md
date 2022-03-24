@@ -1,8 +1,8 @@
 - 👋Olá, me chamo Lucas Brito;
-- 👀 Esou intessado em aprender mais sobre Flutter/Dart, CSS5,HTML e JS;
-- 🌱 Atualmente estou aprendendo mais sobre Flutter e Front-end;
-- 💞️ Procuro colaborar como estagiario;
-- 📫 Como me encontrar? Fácil! @olucasbritoo. "Instagram"
+- 👀 Esou intessado em aprender mais sobre CSS5,HTML e JS;
+- 🌱 Atualmente estou aprendendo sobre como ser um Full-stack;
+- 💞️ Procuro colaborar como estagiario/Júnior;
+- 📫 Como me encontrar? Fácil! @olucasbritoo "Instagram"
 
 <!---
 Lucas-27-jj/Lucas-27-jj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
